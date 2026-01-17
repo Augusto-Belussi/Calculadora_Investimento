@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/logo_capital+.png"
+    src="./imagens/logo_capital+.png"
     width="500"
 />
 
