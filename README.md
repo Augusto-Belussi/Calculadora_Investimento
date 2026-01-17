@@ -1,8 +1,9 @@
 
-<img 
-    src="./imagens/logo_capital+.png"
-    width="700"
-/>
+<p align="center">
+  <img src="./imagens/logo_capital+.png" width="700" /><br>
+  <em>Simule hoje o impacto do tempo e dos aportes no seu futuro financeiro.</em>
+</p>
+
 
 # Capital+ — Sistema de Cálculo de Investimentos em Excel
 
