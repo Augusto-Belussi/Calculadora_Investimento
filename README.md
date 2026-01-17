@@ -2,6 +2,9 @@
 
 O Capital+ é uma planilha desenvolvida em Excel para simulação de investimentos financeiros, permitindo a análise de crescimento patrimonial ao longo do tempo com base em aportes mensais, taxa de rendimento e diferentes perfis de investidor.
 
+## Visão geral do sistema
+![Tela principal do Capital+](imagens/tela-principal.png)
+
 ## Objetivo do projeto
 Auxiliar o investidor a visualizar o impacto dos aportes mensais e do tempo de investimento, além de sugerir uma distribuição estratégica de investimentos de acordo com o perfil escolhido.
 
@@ -29,25 +32,16 @@ Auxiliar o investidor a visualizar o impacto dos aportes mensais e do tempo de i
 - Comparação de patrimônio final e dividendos em cada cenário
 
 ### Perfis de investidor
-- Conservador
-- Moderado
-- Agressivo
+
+#### Perfil Conservador
+![Perfil Conservador](imagens/perfil-conservador.png)
+
+#### Perfil Moderado
+![Perfil Moderado](imagens/perfil-moderado.png)
+
+#### Perfil Agressivo
+![Perfil Agressivo](imagens/perfil-agressivo.png)
 
 Cada perfil apresenta:
-- Distribuição percentual sugerida por tipo de FII
-- Cálculo automático dos valores em reais
-- Gráficos de pizza para visualização da alocação
+- Distribuição perce
 
-## Tecnologias utilizadas
-- Microsoft Excel
-- Fórmulas financeiras
-- Gráficos dinâmicos
-
-## Possíveis melhorias futuras
-- Automatização dos cálculos com VBA
-- Inclusão de novos perfis personalizados
-- Conversão da lógica para uma aplicação web ou script em Python
-- Integração com dados reais de mercado
-
-## Autor
-Augusto Belussi
