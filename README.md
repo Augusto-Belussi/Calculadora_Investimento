@@ -1,13 +1,14 @@
 
 <p align="center">
-  <img src="./imagens/logo_capital+.png" width="700" /><br>
-  <em>Simule hoje o impacto do tempo e dos aportes no seu futuro financeiro.</em>
+  <img src="./imagens/logo_capital+.png" width="650" />
+  <br>
+  <em>Simule o impacto do tempo e dos aportes no seu futuro financeiro.</em>
 </p>
 
 
-# Capital+ — Sistema de Cálculo de Investimentos em Excel
+# Capital+
 
-O Capital+ é uma planilha desenvolvida em Excel para simulação de investimentos financeiros, permitindo a análise de crescimento patrimonial ao longo do tempo com base em aportes mensais, taxa de rendimento e diferentes perfis de investidor.
+O **Capital+** é uma planilha desenvolvida em **Excel** para simulação de investimentos financeiros, permitindo a análise do crescimento patrimonial ao longo do tempo com base em aportes mensais, taxa de rendimento e diferentes perfis de investidor.
 
 ## Visão geral do sistema
 ![Tela principal do Capital+](imagens/tela_principal.png)
