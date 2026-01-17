@@ -59,5 +59,6 @@ Cada perfil apresenta:
 - Integração com dados reais de mercado
 
 ## Autor
-Augusto Belussi
+Criado por Augusto Belussi
 
+[GitHub](https://github.com/Augusto-BelussiB) | [LinkedIn](https://www.linkedin.com/in/augustobelussi) | [Instagram](https://www.instagram.com/augusto_belussi)
