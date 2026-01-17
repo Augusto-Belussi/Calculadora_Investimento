@@ -1,7 +1,7 @@
-<p align="center">
+
 <img 
     src="./imagens/logo_capital+.png"
-    width="500"
+    width="700"
 />
 
 # Capital+ — Sistema de Cálculo de Investimentos em Excel
