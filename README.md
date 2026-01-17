@@ -13,6 +13,14 @@ O **Capital+** é uma planilha desenvolvida em **Excel** para simulação de inv
 ## Visão geral do sistema
 ![Tela principal do Capital+](imagens/tela_principal.png)
 
+## 🚀 Como usar
+
+1. Baixe o arquivo `calculadora_de_investimento.xlsx`
+2. Abra no Microsoft Excel
+3. Insira valores nas células em branco
+4. Celulas pintadas de cinzaas não são interativas
+5. Confira os resultados nos cenários e nos gráficos
+
 ## Objetivo do projeto
 Auxiliar o investidor a visualizar o impacto dos aportes mensais e do tempo de investimento, além de sugerir uma distribuição estratégica de investimentos de acordo com o perfil escolhido.
 
